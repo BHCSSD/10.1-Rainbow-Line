@@ -16,6 +16,6 @@ function draw() {
 }//end draw
 
 function mousePressed(){
-  background(255, 255,0);
+  
 }// end of mouse pressed
 ```
