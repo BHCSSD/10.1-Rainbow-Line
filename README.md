@@ -1,6 +1,6 @@
 # 10.1-Rainbow-Line
 
-```
+```javaScript
 let lineY = 50;
 
 function setup() {
